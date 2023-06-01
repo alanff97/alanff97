@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on an online appointment booking app and changing the frontend for a TMDB project.
+- 🔭 I’m currently working on an online appointment booking app with **TypeScript**.
 
 - 🌱 I’m currently learning **TypeScript**.
  
