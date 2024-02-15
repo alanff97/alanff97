@@ -5,10 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alan.figueroa.cl@gmail.com)](mailto:alan.figueroa.cl@gmail.com)
 
 
-
-- 🔭 I’m currently working on an online appointment booking app with **TypeScript**.
-
-- 🌱 I’m currently learning **TypeScript**.
  
 
 
